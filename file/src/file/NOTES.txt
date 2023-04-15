@@ -1,0 +1,5 @@
+
+(done) add bmi calc method
+(done) add bmi details; add this in a seperate method
+
+maybe use getter and setters

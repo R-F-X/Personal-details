@@ -1,0 +1,87 @@
+
+
+Name: joe
+Surname: sanders
+DOB: 23.09.2003
+Mass: 56.0
+Height: 150.0
+===============================================
+
+
+Name: ko
+Surname: jack
+DOB: 04.05.2009
+Mass: 40.0 kg
+Height: 150.0 cm
+===============================================
+
+
+Name: joe
+Surname: sander
+DOB: 23/03/2001
+Mass: 56.0 kg
+Height: 160.0 cm
+===============================================
+
+
+Name: jam
+Surname: soe
+DOB: 23/09/2000
+Mass: 50.0 kg
+Height: 150.0 cm
+===============================================
+
+
+Name: joe
+Surname: fan
+DOB: 21.06.2004
+Mass: 70.0 kg
+Height: 180.0 cm
+===============================================
+
+
+Name: sammy
+Surname: kow
+DOB:  45.2.2002
+Mass: 100.0 kg
+Height: 180.0 cm
+BMI: 30.864197530864196
+===============================================
+
+
+Name: 	wan
+Surname 	: man
+DOB: 		222222
+Mass: 	222.0 kg
+Height: 	230.0 cm
+BMI: 		41.96597353497165
+===============================================
+
+
+Name: 		aint
+Surname: 	show
+DOB: 		234563
+Mass: 		70.0 kg
+Height: 	170.0 cm
+BMI: 		24.0 (Healthy weight)
+===============================================
+
+
+Name: 		jane
+Surname: 	coraline
+DOB: 		12.05.2001
+ID number: 	4509242
+Mass: 		60.0 kg
+Height: 	165.0 cm
+BMI: 		22.0 (Healthy weight)
+===============================================
+
+
+Name: 		final
+Surname: 	one
+DOB: 		01.01
+ID number: 	2300012
+Mass: 		60.0 kg
+Height: 	160.0 cm
+BMI: 		23.0 (Healthy weight)
+===============================================
